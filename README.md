@@ -1,4 +1,4 @@
-
+// using la's board
 plug boot0 up boot1 down
 jlink upload in platformio
 // upload done
